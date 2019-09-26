@@ -1,7 +1,8 @@
-package com.springboot.service;
+package com.springboot.service.impl;
 
 import com.springboot.bean.Student;
 import com.springboot.mapper.StudentMapper;
+import com.springboot.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
